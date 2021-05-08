@@ -1,0 +1,8 @@
+/.pydevproject
+/.project
+/db.sqlite3
+
+/snippets/migrations
+/snippets/__pycache__
+
+/DjangoRest/__pycache__
